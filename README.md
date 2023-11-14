@@ -52,7 +52,7 @@ Follow the steps below to set up the project:
 
 3. **Remove Product from Cart:**
     - Endpoint: `yourlocal:8000/api/removeProductFromCart/:product_id`
-    - Method: `DELETE`
+    - Method: `POST`
 
 4. **Set Cart Product Quantity:**
     - Endpoint: `yourlocal:8000/api/setCartProductQuantity`
@@ -79,9 +79,6 @@ Follow the steps below to set up the project:
 
 2. Access the API endpoints using a tool like Postman or your preferred API testing tool.
 
-## Contributing
-
-If you would like to contribute to this project, feel free to submit a pull request. Bug reports and feature requests are also welcome.
 
 ## Database Credentials
 
